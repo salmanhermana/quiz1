@@ -1,0 +1,19 @@
+img {
+    margin: 5px;
+    transition: all 0.2s;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+.fs-3 {
+  position: relative;
+  left: 100px;
+}
+
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
